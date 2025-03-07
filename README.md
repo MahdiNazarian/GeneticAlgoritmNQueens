@@ -1,13 +1,3 @@
-![](media/27c47b7b9c0c0c75c5451075f7cb1932.png)
-
-Evolutionary Algorithms
-
-Dr. Hassan Khotan Lou
-
-Mahdi Nazarian
-
-Fall 2024
-
 **Contents**
 
 [1. Introduction](#introduction)
